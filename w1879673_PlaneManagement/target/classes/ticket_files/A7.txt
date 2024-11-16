@@ -1,0 +1,6 @@
+Customer Details: 
+Date: 2024-03-13
+tID: 6444e6b1-5938-4900-9782-a68a310a8b81
+Name: NafiuAmosa
+Seat: A7
+Price: £150

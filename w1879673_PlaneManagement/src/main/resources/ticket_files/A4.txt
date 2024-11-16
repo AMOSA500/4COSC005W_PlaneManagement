@@ -1,0 +1,6 @@
+Customer Details: 
+Date: 2024-03-13
+tID: 4fb898ea-6341-430d-aa4f-4b19f440e7a8
+Name: Nafiu Amosa
+Seat: A4
+Price: £200

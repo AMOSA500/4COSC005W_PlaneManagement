@@ -1,0 +1,6 @@
+Customer Details: 
+Date: 2024-03-13
+tID: 5637e26a-17a8-487f-8961-493a13416c8b
+Name: Alimah Amosa
+Seat: A2
+Price: £200
